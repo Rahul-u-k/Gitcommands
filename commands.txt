@@ -1,1 +1,1 @@
-Git rename branch: git branch -m master main
+Create and switch to new branch : git checkout -b feature-featurename
